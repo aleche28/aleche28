@@ -1,82 +1,48 @@
-## Hi there, I'm Alessio! 👋
+# Alessio Chessa
 
-📚 MSc in Computer Engineering at Politecnico di Torino
+**Software Engineer @ AROL.** MSc in Computer Engineering, Politecnico di
+Torino. Based in Turin, Italy.
 
-💼 Currently working as software engineer at [AROL](<https://www.arol.com/>)
+## What I do
 
-## How to reach me
+Day-to-day I build backend services at AROL: **C#/.NET**, **SQL Server** and
+**Microsoft Azure** (auth, blob storage, deployment), with microservices,
+background workers, REST APIs, CI/CD and observability around them.
 
-<a href="https://www.linkedin.com/in/alessiochessa">
-  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+Outside of work I learn by building — lately **Go** (interpreters and docs
+tooling), **TypeScript** web apps, and contributions to the
+[B-AROL-O](https://github.com/b-arol-o) open-source robotics/AI team.
 
-## Languages and tools
+## Currently
 
-### Languages
+- Backend development on Azure: REST APIs, microservices, SQL Server,
+  observability
+- Learning **Go**:
+  - [grepdocs](https://github.com/aleche28/grepdocs) — centralized
+    search/browse/edit of documentation across many repos (rendered Markdown,
+    full-text search, commits back to source control). Go.
+  - [go-monkey-interpreter](https://github.com/aleche28/go-monkey-interpreter)
+    — Monkey language interpreter in Go (lexer, parser, evaluator).
+- Contributing to **[B-AROL-O](https://github.com/b-arol-o)**:
+  - [FREISA](https://github.com/B-AROL-O/FREISA) — four-legged robot sprinkler
+    (voice-command pipeline with Whisper)
+  - [RUCHE](https://github.com/B-AROL-O/RUCHE) — ROS2 control for embodied
+    agents
+- [bookworm](https://github.com/aleche28/bookworm) — reading-tracker web app.
+  TypeScript.
 
-<p align="left">
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <!-- C# -->
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  
-### Frameworks
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <!-- Express.js -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <!-- React.js -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <!-- Angular -->
-  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <!-- Spring -->
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
-  </a>
+## Skills
 
-### DBMS
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/>
-  </a>
-  <!-- SQLite -->
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-</p>
+- **Backend:** C#/.NET, REST APIs, microservices, background workers,
+  software architecture
+- **Data:** SQL Server, data warehousing, SQL (PostgreSQL, SQLite),
+  NoSQL (MongoDB)
+- **Cloud & infra:** Azure (Entra ID/OAuth2, Blob Storage), Docker, CI/CD
+  (GitHub Actions), Linux
+- **Observability:** OpenTelemetry, Grafana, Prometheus, Loki, Tempo, Mimir
+- **Also:** C, JavaScript/TypeScript, Python, Bash, Go (learning)
+- **Frontend:** Angular, React (basic)
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/alessiochessa)
