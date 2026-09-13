@@ -1,48 +1,42 @@
-# Alessio Chessa
+<h1 align="center">Alessio Chessa</h1>
 
-**Software Engineer @ AROL.** MSc in Computer Engineering, Politecnico di
-Torino. Based in Turin, Italy.
+<p align="center">
+  Backend engineer at <b>AROL</b> — C#/.NET, Azure, SQL Server<br>
+  MSc Computer Engineering, Politecnico di Torino · Turin, Italy
+</p>
 
-## What I do
+<p align="center">
+  <a href="https://www.linkedin.com/in/alessiochessa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/b-arol-o"><img alt="B-AROL-O" src="https://img.shields.io/badge/B--AROL--O-181717?style=flat&logo=github&logoColor=white"></a>
+</p>
 
-Day-to-day I build backend services at AROL: **C#/.NET**, **SQL Server** and
-**Microsoft Azure** (auth, blob storage, deployment), with microservices,
-background workers, REST APIs, CI/CD and observability around them.
+---
 
-Outside of work I learn by building — lately **Go** (interpreters and docs
-tooling), **TypeScript** web apps, and contributions to the
-[B-AROL-O](https://github.com/b-arol-o) open-source robotics/AI team.
+At AROL I build the services behind the product: REST APIs, microservices and background workers in C#/.NET, on Azure (Entra ID/OAuth2, Blob Storage) over SQL Server, with CI/CD and observability (OpenTelemetry, Grafana, Prometheus) throughout.
 
-## Currently
+Outside work I learn by building. Right now that means writing Go, and helping teach a four-legged robot to water plants.
 
-- Backend development on Azure: REST APIs, microservices, SQL Server,
-  observability
-- Learning **Go**:
-  - [grepdocs](https://github.com/aleche28/grepdocs) — centralized
-    search/browse/edit of documentation across many repos (rendered Markdown,
-    full-text search, commits back to source control). Go.
-  - [go-monkey-interpreter](https://github.com/aleche28/go-monkey-interpreter)
-    — Monkey language interpreter in Go (lexer, parser, evaluator).
-- Contributing to **[B-AROL-O](https://github.com/b-arol-o)**:
-  - [FREISA](https://github.com/B-AROL-O/FREISA) — four-legged robot sprinkler
-    (voice-command pipeline with Whisper)
-  - [RUCHE](https://github.com/B-AROL-O/RUCHE) — ROS2 control for embodied
-    agents
-- [bookworm](https://github.com/aleche28/bookworm) — reading-tracker web app.
-  TypeScript.
+## 🔧 Building
 
-## Skills
+- **[grepdocs](https://github.com/aleche28/grepdocs)** `Go` — Documentation scattered across dozens of repos, searchable from one place. Rendered Markdown, full-text search, edits committed straight back to source control.
+- **[go-monkey-interpreter](https://github.com/aleche28/go-monkey-interpreter)** `Go` — The Monkey language, from raw source to evaluated result: lexer, parser, tree-walking evaluator, no libraries.
+- **[bookworm](https://github.com/aleche28/bookworm)** `TypeScript` — A reading tracker for people with more unfinished books than shelf space.
 
-- **Backend:** C#/.NET, REST APIs, microservices, background workers,
-  software architecture
-- **Data:** SQL Server, data warehousing, SQL (PostgreSQL, SQLite),
-  NoSQL (MongoDB)
-- **Cloud & infra:** Azure (Entra ID/OAuth2, Blob Storage), Docker, CI/CD
-  (GitHub Actions), Linux
-- **Observability:** OpenTelemetry, Grafana, Prometheus, Loki, Tempo, Mimir
-- **Also:** C, JavaScript/TypeScript, Python, Bash, Go (learning)
-- **Frontend:** Angular, React (basic)
+## 🤖 Contributing
 
-## Contact
+With **[B-AROL-O](https://github.com/b-arol-o)**, an open-source robotics/AI team:
 
-- [LinkedIn](https://www.linkedin.com/in/alessiochessa)
+- **[FREISA](https://github.com/B-AROL-O/FREISA)** — A four-legged robot sprinkler. I work on the Whisper voice-command pipeline.
+- **[RUCHE](https://github.com/B-AROL-O/RUCHE)** — ROS2 control for embodied agents.
+
+## 🧰 Toolbox
+
+- **Backend** — C#/.NET, REST APIs, microservices, background workers, software architecture
+- **Data** — SQL Server, data warehousing, PostgreSQL, SQLite, MongoDB
+- **Cloud & infra** — Azure (Entra ID/OAuth2, Blob Storage), Docker, GitHub Actions, Linux
+- **Observability** — OpenTelemetry, Grafana, Prometheus, Loki, Tempo, Mimir
+- **Also** — C, TypeScript, Python, Bash, Go (learning), Angular, React
+
+<p align="center">
+  📫 <a href="https://www.linkedin.com/in/alessiochessa">Say hello on LinkedIn</a>
+</p>
