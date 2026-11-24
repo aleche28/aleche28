@@ -28,6 +28,7 @@ With **[B-AROL-O](https://github.com/b-arol-o)**, an open-source robotics/AI tea
 
 - **[FREISA](https://github.com/B-AROL-O/FREISA)** — A four-legged robot sprinkler. I work on the Whisper voice-command pipeline.
 - **[RUCHE](https://github.com/B-AROL-O/RUCHE)** — ROS2 control for embodied agents.
+- **[Agenthon 2026](https://github.com/B-AROL-O/agenthon-2026)** — A full GenAI ad campaign in one day, for GDG Torino's "Build with AI" Agenthon. I made the web, social and print visuals, directing Claude Code over a small Python tool for Nano Banana on Vertex AI.
 
 ## 🧰 Toolbox
 
